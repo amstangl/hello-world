@@ -3,3 +3,4 @@
 #Trying this again. And writing more stuff.
 #Not sure if I love the nano editor. Pretty colors though. 
 #type. 
+#connected to github. and stuff. 
